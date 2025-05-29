@@ -33,7 +33,8 @@ Design a database for patient management, appointments, medical records, and bil
 ## Scenario Chosen: Hospital
 
 ## 🗂 ER Diagram:
-![image](https://github.com/user-attachments/assets/a3580682-8b5d-4140-adf9-baef17e10952)
+![w2jimwxb](https://github.com/user-attachments/assets/c005d785-0b0e-46b1-893d-0378612ee514)
+
 ---
 
 ## 🧾 Entities and Attributes
